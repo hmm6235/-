@@ -19,3 +19,13 @@
   4) 날짜 / 시간 : DateField, TimeField, DateTimeField
   5) 참 / 거짓 : BooleanField, NullBooleanField
   6) 파일 : FileField, ImageField, FilePathField
+
+
+##
+1. 모델폼 
+>> 모델에 대응하는 html폼을 만들어줌
+
+>> 데이터를 생성하거나 업데이트가 간편
+
+>> 폼을 다루는 법을 배워야 한다.
+
